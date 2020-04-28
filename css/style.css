@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    background-image: url('/img/img.jpg');
+}
+
+#header{
+    height: 1000px;
+    height: 200px;
+    background-color: rgb(3, 56, 38);
+}
+#logo{
+    width: 200px;height: 200px; float: left; background-color: rgb(247, 36, 135);
+}
+#banner{
+    width: 800px;height: 200px; float: left; background-color: rgb(34, 87, 146);
+}
+#menu{
+    height: 1000px;
+    height: 50px;
+    background-color: rgb(33, 180, 89);
+}
+#nav{
+    height: 1000px;
+    height: 500px;
+    background-color: rgb(219, 141, 52);
+}
+#article{
+    width: 700px;height: 500px; float: left; background-color: rgb(165, 65, 212);
+}
+#aside{
+    width: 300px;height: 500px; float: left; background-color: rgb(235, 154, 33);
+}
+#footer{
+    height: 1000px;
+    height: 50px;
+    background-color: rgb(20, 36, 26);
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
